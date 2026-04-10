@@ -6,11 +6,11 @@ Software architect with roots in the 8-bit era. Got my first computer in 1983 --
 
 ```
 1983  Commodore 64 — fell in love with BASIC
-1988  Amiga 500 — the demo scene years
+1987  Amiga 500 — the demo scene years
 1990  First PC (386) — the real deal
 1997  Diploma in Computer Science
 1999  Freelance developer — C, then Java
-2004  PhD in Computer Science
+2004  PhD in Computer Science - working with NNs
 2004  Joined Siemens — Java, then .NET/C#
 2014  Software Architect — and still going
 2025  Discovered AI-assisted development with Claude Code
