@@ -18,7 +18,7 @@ Software architect with roots in the 8-bit era. Got my first computer in 1983 --
 
 ## What I Build
 
-- **Professional:** Enterprise software architecture at Siemens (.NET/C#)
+- **Professional:** Enterprise software architecture at Siemens / Yunex (.NET/C#)
 - **Open Source:** AI tooling, MCP servers, developer productivity tools
 - **Side Projects:** Games, utilities, and whatever catches my curiosity
 
