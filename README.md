@@ -44,7 +44,7 @@ Software architect with roots in the 8-bit era. Got my first computer in 1983 --
 | [open-brain](https://github.com/dagonet/open-brain) | Personal AI memory system -- CLI, MCP server, Slack bot, and web dashboard |
 | [claude-code-toolkit](https://github.com/dagonet/claude-code-toolkit) | Production-ready Claude Code setup with agents, skills, and MCP servers |
 | [mcp-dev-servers](https://github.com/dagonet/mcp-dev-servers) | MCP servers for Claude Code -- git, GitHub, .NET, Ollama, and Rust tools |
-| [OmniScribe](https://github.com/dagonet/panoscribe) | Extract complete video transcripts -- speech and on-screen text |
+| [panoscribe](https://github.com/dagonet/panoscribe) | Extract complete video transcripts -- speech and on-screen text |
 
 ---
 
